@@ -1,6 +1,6 @@
 # Hi! I'm Alexandre⚡<br/>
 
-📢 **Seeking a 12-month Cybersecurity Engineering Alternance** starting Sept 2026<br/>
+📢 **Seeking a 12-month Cybersecurity Engineering Apprenticeship** starting Sept 2026<br/>
 🛡️ **Cybersecurity Student** at UTT & OpenClassRooms<br/>
 🏆 **Top 3%** on [TryHackMe](https://tryhackme.com/p/St4rSSHieID)<br/>
 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/alexandreboudon/)<br/>
