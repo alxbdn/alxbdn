@@ -16,7 +16,7 @@
 ## 📜 Certifications<br/>
 
 [![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/c548ff8a-e1b8-4c9f-8c96-7f5f0e455172/public_url)<br/>
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=flat&logo=comptia&logoColor=white)](https://www.credly.com/earner/earned/badge/7ae8ad6c-ea99-488d-a513-760adb7f5e96)<br/>
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=flat&logo=comptia&logoColor=white)](https://www.credly.com/badges/7ae8ad6c-ea99-488d-a513-760adb7f5e96)<br/>
 [![TryHackMe SOC1](https://img.shields.io/badge/TryHackMe_SOC_LvL_1-228B22?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-1DVFL5WZA9)<br/>
 [![PMI CAPM](https://img.shields.io/badge/PMI_Certified_Associate_in_Project_Management_(CAPM)-005EB8?style=flat&llogo=credly&logoColor=white)](https://www.credly.com/badges/8412a6b2-4aaa-45ba-9b5c-f2b50d3cc72f)<br/>
 
