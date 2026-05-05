@@ -4,7 +4,7 @@
 🛡️ **French Cybersecurity Student** at UTT & OpenClassRooms<br/>
 🏆 **Top 3%** on [TryHackMe](https://tryhackme.com/p/St4rSSHieID)<br/>
 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/alexandreboudon/)<br/>
-💫 **Passionate about:** **The Space Industry** 🚀 | **Nuclear Energy** ⚛️ | **Robotics** 🤖 | **Fitness** 🏋️‍♂️<br/>
+💫 **Passionate about:** **The Space Industry** 🚀 | **Nuclear Energy** ⚛️ | **Robotics** 🤖 | **Fitness** 🏋️‍♂️ | **Piano** 🎵<br/>
 
 🌍 **Spoken Languages:**<br/>
 ![French](https://img.shields.io/badge/🇫🇷_Français-C2-008000?labelColor=333333&style=flat) ![English](https://img.shields.io/badge/🇬🇧_English-C2-008000?labelColor=333333&style=flat) ![Spanish](https://img.shields.io/badge/🇪🇸_Español-B1-008000?labelColor=333333&style=flat) ![Moroccan Arabic](https://img.shields.io/badge/🇲🇦_Arabic-B1-008000?labelColor=333333&style=flat)<br/>
