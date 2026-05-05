@@ -19,7 +19,7 @@
 ![OSINT-FR](https://img.shields.io/badge/OSINT--FR-4A7FA7?style=flat) <br/>
 ![Project_Management_Institute_Provence](https://img.shields.io/badge/Project_Management_Institute_Provence-4A7FA7?style=flat)
 
-📜 **Certifications** <br/>
+📜 **Certifications:** <br/>
 [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-F6FAFD?labelColor=4A7FA7&style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/c548ff8a-e1b8-4c9f-8c96-7f5f0e455172/public_url)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-F6FAFD?labelColor=4A7FA7&style=flat&logo=comptia&logoColor=white)](https://www.credly.com/badges/7ae8ad6c-ea99-488d-a513-760adb7f5e96)
 [![TryHackMe SOC1](https://img.shields.io/badge/TryHackMe-SOC_LvL_1-F6FAFD?labelColor=4A7FA7&style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-1DVFL5WZA9) <br/>
