@@ -8,7 +8,7 @@
 
 🌍 **Spoken Languages:** <br/>
 ![French](https://img.shields.io/badge/🇫🇷_Français-C2-F6FAFD?labelColor=4A7FA7&style=flat)
-![English](https://img.shields.io/badge/🇬🇧_English-C2-F6FAFD?labelColor=4A7FA7&style=flat)
+![English](https://img.shields.io/badge/🇬🇧_English-C2-F6FAFD?labelColor=4A7FA7&style=flat) <br/>
 ![Spanish](https://img.shields.io/badge/🇪🇸_Español-B1-F6FAFD?labelColor=4A7FA7&style=flat)
 ![Moroccan Arabic](https://img.shields.io/badge/🇲🇦_Arabic-B1-F6FAFD?labelColor=4A7FA7&style=flat) <br/>
 
