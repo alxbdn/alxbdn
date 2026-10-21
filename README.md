@@ -1,6 +1,6 @@
 # Hi! I'm Alexandre! <br/>
 
-📢 **Seeking a 12-month Cybersecurity Engineering Apprenticeship** starting Sept 2026 <br/>
+⚙️ **Industrial Cybersecurity Engineer** <br/>
 🛡️ **French Cybersecurity Student** at UTT & OpenClassRooms <br/>
 🏆 **Top 3%** on TryHackMe <br/>
 💫 **Passionate about:**  The Space Industry 🚀 | Nuclear Energy ⚛️ | Robotics 🤖 | Fitness 🏋️‍♂️ | Piano 🎵 <br/>
