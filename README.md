@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexandre 👋</h1>
+<h1 align="center">Hi, I'm Alex 👋</h1>
 <p align="center"><b>Industrial Cybersecurity Engineer @ Sopra Steria</b> · Purple Team mindset · Master's in Information Systems Security (UTT × OpenClassrooms)</p>
 
 <p align="center">
