@@ -2,7 +2,6 @@
 <p align="center"><b>Industrial Cybersecurity Engineer @ Sopra Steria</b> · Purple Team mindset · Master's in Information Systems Security (UTT × OpenClassrooms)</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandreboudon/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-4A7FA7?logo=linkedin-white&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/St4rSSHieID"><img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-Top_3%25-4A7FA7?logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="https://github.com/alxbdn/win11-desktop-switcher"><img src="https://img.shields.io/badge/Tool-win11--desktop--switcher-F6FAFD?labelColor=4A7FA7&style=flat&logo=github&logoColor=white" alt="win11-desktop-switcher"></a>
 </p>
 ---
@@ -17,7 +16,6 @@ I like security that is **proportionate**: the right control for the real risk, 
  
 - 💼 **Industrial cybersecurity** at Sopra Steria, Toulouse 📍
 - 🎓 Master's in **Information Systems Security** at UTT × OpenClassrooms
-- 🏗️ Building a segmented company network: firewall, DMZ web server, Active Directory
 - 📡 Studying for **Cisco CCNA**
 ### 📂 Featured project
  
