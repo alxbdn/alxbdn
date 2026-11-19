@@ -22,7 +22,7 @@ I like security that is **proportionate**: the right control for the real risk, 
  
 | Project | What it shows |
 |---|---|
-| [**EzReader**](https://github.com/alxbdn/EzReader) | Fast, lightweight PDF reader and editor for Windows, macOS and Linux (Rust + Tauri): read, annotate, sign, edit, redact, reorganize, compress and protect PDFs, all offline with no account, no AI and no telemetry. On the [Microsoft Store](https://apps.microsoft.com/detail/9P9PVN4DRVS8) and via Homebrew (`brew install --cask alxbdn/ezreader/ezreader`). CI security scans, OpenSSF Best Practices and Scorecard |
+| [**EzReader**](https://github.com/alxbdn/EzReader) | Fast, lightweight PDF reader and editor for Windows, macOS and Linux (Rust + Tauri): read, annotate, sign, edit, redact, reorganize, compress and protect PDFs, all offline with no account, no AI and no telemetry. |
 | [**EzDesk**](https://github.com/alxbdn/ezdesk) | Move windows between Windows 11 virtual desktops with the mouse alone, with a numbered tray icon and a live mini-dock of your desktops (Rust). Formerly *win11-desktop-switcher*. On the [Microsoft Store](https://apps.microsoft.com/detail/9MV9P36W441C) |
  
 ### 🧰 Toolbox
