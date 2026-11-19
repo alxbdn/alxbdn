@@ -2,7 +2,8 @@
 <p align="center"><b>Industrial Cybersecurity Engineer @ Sopra Steria</b> · Master's in Information Systems Security (UTT × OpenClassrooms)</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandreboudon/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-4A7FA7?logo=linkedin-white&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/alxbdn/win11-desktop-switcher"><img src="https://img.shields.io/badge/Tool-win11--desktop--switcher-F6FAFD?labelColor=4A7FA7&style=flat&logo=github&logoColor=white" alt="win11-desktop-switcher"></a>
+  <a href="https://github.com/alxbdn/EzReader"><img src="https://img.shields.io/badge/Tool-EzReader-F6FAFD?labelColor=4A7FA7&style=flat&logo=github&logoColor=white" alt="EzReader"></a>
+  <a href="https://github.com/alxbdn/ezdesk"><img src="https://img.shields.io/badge/Tool-EzDesk-F6FAFD?labelColor=4A7FA7&style=flat&logo=github&logoColor=white" alt="EzDesk"></a>
 </p>
 ---
  
@@ -17,11 +18,12 @@ I like security that is **proportionate**: the right control for the real risk, 
 - 💼 **Industrial cybersecurity** at Sopra Steria, Toulouse 📍
 - 🎓 Master's in **Information Systems Security** at UTT × OpenClassrooms
 - 📡 Studying for **Cisco CCNA**
-### 📂 Featured project
+### 📂 Featured projects
  
 | Project | What it shows |
 |---|---|
-| [**win11-desktop-switcher**](https://github.com/alxbdn/win11-desktop-switcher) | Fast virtual-desktop switching for Windows 11 (AutoHotkey v2): `Alt + 1…9` shortcuts, tray icon showing the current desktop, hardened install (admin-only `Program Files` folder, SHA256-checked DLL, logon scheduled task) |
+| [**EzReader**](https://github.com/alxbdn/EzReader) | Fast, lightweight PDF reader and editor for Windows, macOS and Linux (Rust + Tauri): read, annotate, sign, edit, redact, reorganize, compress and protect PDFs, all offline with no account, no AI and no telemetry. On the [Microsoft Store](https://apps.microsoft.com/detail/9P9PVN4DRVS8) and via Homebrew (`brew install --cask alxbdn/ezreader/ezreader`). CI security scans, OpenSSF Best Practices and Scorecard |
+| [**EzDesk**](https://github.com/alxbdn/ezdesk) | Move windows between Windows 11 virtual desktops with the mouse alone, with a numbered tray icon and a live mini-dock of your desktops (Rust). Formerly *win11-desktop-switcher*. On the [Microsoft Store](https://apps.microsoft.com/detail/9MV9P36W441C) |
  
 ### 🧰 Toolbox
  
@@ -50,6 +52,9 @@ I like security that is **proportionate**: the right control for the real risk, 
 ![Bash](https://img.shields.io/badge/Bash-4A7FA7?style=flat&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-4A7FA7?style=flat)
 ![Python](https://img.shields.io/badge/Python-4A7FA7?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-4A7FA7?style=flat&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-4A7FA7?style=flat&logo=tauri&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4A7FA7?style=flat&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-4A7FA7?style=flat&logo=git&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4A7FA7?style=flat)
  
