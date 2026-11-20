@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/alexandreboudon/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-4A7FA7?logo=linkedin-white&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/alxbdn/EzReader"><img src="https://img.shields.io/badge/Tool-EzReader-F6FAFD?labelColor=4A7FA7&style=flat&logo=github&logoColor=white" alt="EzReader"></a>
   <a href="https://github.com/alxbdn/ezdesk"><img src="https://img.shields.io/badge/Tool-EzDesk-F6FAFD?labelColor=4A7FA7&style=flat&logo=github&logoColor=white" alt="EzDesk"></a>
+  <a href="https://www.buymeacoffee.com/alxbdn"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FF5F5F?style=flat&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee"></a>
 </p>
 ---
  
@@ -88,4 +89,7 @@ I like security that is **proportionate**: the right control for the real risk, 
  
 ---
  
+<p align="center">EzReader and EzDesk are free and open source. If they save you time, you can <a href="https://www.buymeacoffee.com/alxbdn">buy me a coffee</a> ☕</p>
+<p align="center"><a href="https://www.buymeacoffee.com/alxbdn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=alxbdn&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a coffee" height="48"></a></p>
+
 <p align="center">💫 Off-screen: the space industry 🚀 · nuclear energy ⚛️ · robotics 🤖 · fitness 🏋️ · piano 🎵</p>
